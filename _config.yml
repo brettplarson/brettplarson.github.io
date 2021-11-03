@@ -24,11 +24,9 @@ linkedin_username: brettplarson
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett - I’m a sysadmin / DevOps Engineer / Site Reliability Engineer (SRE) / NOC engineer / wanna-be programmer who lives in the Chicagoland area.
+  Hi, my name's Brett - I’m a DevOps Engineer / Site Reliability Engineer (SRE) who lives in the Chicagoland area.
 
-  I have more than ten years of relevant experience with some of the best Managed Service providers and IT shops in the area.
-
-  My current focus is on Kubernetes, Python in the context of data science and Azure. 
+  My current focus is on Kubernetes, Python and AWS and Azure clouds.
 
   I am most skilled in: <mark>observability</mark> and <mark>troubleshooting complex systems.</mark>
 
